@@ -4,7 +4,7 @@ Tutorial to train a GPT-2 model from scratch using Hugingg Face and publishing i
 
 By the end of this tutorial, you should have a Gradio demo similar to this one.
 
-To start the tutorial, please visit the first notebook: 1. Collecting the data.
+To start the tutorial, please visit the first notebook: [1. Collecting the data](https://github.com/juancopi81/MMM_Mutopia_Guitar/blob/main/src/1_Collecting_the_data.ipynb).
 
 The dataset is built from the [Mutopia Project](https://www.mutopiaproject.org/). 
 
